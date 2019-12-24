@@ -1,12 +1,19 @@
 # mnist_cnn_classification_with_keras
-- [x] loss
+```bush
+Loss
+```
 
 ![image](https://github.com/LiaoSteve/mnist_cnn_classification_with_keras/blob/master/model_loss.png)
 
-- [x] accuracy
+```bush
+Accuracy
+```
 
 ![image](https://github.com/LiaoSteve/mnist_cnn_classification_with_keras/blob/master/model_acc.png)
 
-- [x] predict result
+```bush
+Predict Result
+```
+
 ![image](https://github.com/LiaoSteve/mnist_cnn_classification_with_keras/blob/master/1.png)
 
