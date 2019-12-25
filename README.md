@@ -9,7 +9,7 @@
 ![image](https://github.com/LiaoSteve/mnist_cnn_classification_with_keras/blob/master/model_acc.png)
 
 --------------
-<h3>3. PREDICT RESULT :</h3>
+<h3>3. PREDICTED RESULT :</h3>
 
 ![image](https://github.com/LiaoSteve/mnist_cnn_classification_with_keras/blob/master/1.png)
 
